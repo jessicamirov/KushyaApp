@@ -1,4 +1,3 @@
-# KushyaApp
 # Kushiya - AI-Generated Trivia App
 Kushiya brings a new wave of entertainment to trivia enthusiasts with its AI-powered dynamic question generation and scoring system. Experience a unique and interactive gameplay that stays fresh and exciting.
 
